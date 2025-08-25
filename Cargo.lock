@@ -100,7 +100,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "ezix"
+name = "ezlog"
 version = "0.1.0"
 dependencies = [
  "env_logger",
