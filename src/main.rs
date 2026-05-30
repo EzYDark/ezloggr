@@ -1,5 +1,5 @@
 fn main() {
-    ezlog::logger::init();
+    ezlog::init();
 
     log::info!("Hello, world!");
 }
